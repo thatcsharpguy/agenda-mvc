@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda.ViewModels", "Agenda
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda.Entidades", "Agenda.Entidades\Agenda.Entidades.csproj", "{C1A2157B-56A6-4F04-AE36-90A3A2EAC021}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda.Logica", "Agenda.Logica\Agenda.Logica.csproj", "{29A96F97-4CCB-4DFA-85A2-2FD8B61B61CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C1A2157B-56A6-4F04-AE36-90A3A2EAC021}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1A2157B-56A6-4F04-AE36-90A3A2EAC021}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1A2157B-56A6-4F04-AE36-90A3A2EAC021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29A96F97-4CCB-4DFA-85A2-2FD8B61B61CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A96F97-4CCB-4DFA-85A2-2FD8B61B61CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A96F97-4CCB-4DFA-85A2-2FD8B61B61CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A96F97-4CCB-4DFA-85A2-2FD8B61B61CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
