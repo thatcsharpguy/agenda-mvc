@@ -1,0 +1,35 @@
+Nuevo proyecto
+# Web
+Web > ASP.NET Web Application (.NET Framework)
+Template:
+	MVC
+	MVC & Web API
+	Autenticación: no autenticación
+	
+# ViewModels
+Windows > Class Library
+
+# Entities
+Windows > Class Library
+
+# Logica
+Windows > Class Library
+
+# Aceso datos
+Windows > Class Library
+
+# Agregar references Web project (Todos)
+
+# Agregar reference Logica (Datos, Entidades)
+
+# Agregar reference Datos (Entidades)
+
+# Crear clase Entidades 
+
+# Crear repositorio de datos
+
+# Crear logica personas
+
+# Crear ViewModels
+
+# Agregar Vistas
